@@ -16,6 +16,8 @@
 4. When you enter the address in your browser, you get a search tab like this 
 ![alt text](2.png) <br/>
    Here, you can enter your search by typing "wiki" followed by you *query*.
+5. After you press the submit button, the program processes and returns the wikipedia output.(This will take a while, make sure you have an active internet connection)
+![alt text](3.png) <br/>
 
 ## Note:
 You need to have **Python** and python package manager **pip** installed. 
