@@ -16,7 +16,7 @@
 4. When you enter the address in your browser, you get a search tab like this 
 ![alt text](2.png) <br/>
    Here, you can enter your search by typing "wiki" followed by you *query*.
-5. After you press the submit button, the program processes and returns the wikipedia output.(This will take a while, make sure you have an active internet connection)
+5. After you press the submit button, the program processes and returns the wikipedia output. (*This will take a while & also make sure you have an active internet connection*)
 ![alt text](3.png) <br/>
 
 ## Note:
@@ -25,4 +25,4 @@ You need to have **Python** and python package manager **pip** installed.
 * This [Link](https://pip.pypa.io/en/stable/installing/) is to install **pip**
 
 ## Wiki
-The above program is simple implementation to learn about the power and simplicity of **Flask** library. I have also used **Wikipedia** API too, this is a very simple API to use. I have written this code to learn the basics only. 
+The above program is simple implementation to learn about the power and simplicity of **Flask** library. I have also used **Wikipedia** API too, this is a very simple API to use. I have written this code to learn the basics only.
