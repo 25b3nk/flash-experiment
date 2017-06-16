@@ -10,6 +10,13 @@
   ```
   python test.py
   ```
+3. When you run the py code, you get something like this
+![alt text](1.png) <br/>
+   Note the address, this is what you must enter in your browser.
+4. When you enter the address in your browser, you get a search tab like this 
+![alt text](2.png) <br/>
+   Here, you can enter your search by typing "wiki" followed by you *query*.
+
 ## Note:
 You need to have **Python** and python package manager **pip** installed. 
 * Please go to the [Link](https://www.python.org/) to download **Python**. 
